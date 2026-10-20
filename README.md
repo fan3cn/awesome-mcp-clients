@@ -2196,12 +2196,12 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 <tr><th align="left">Website</th><td>https://bayeschat.xyz</td></tr>
 <tr><th align="left">License</th><td>Proprietary</td></tr>
 <tr><th align="left">Type</th><td>Mobile app</td></tr>
-<tr><th align="left">Platforms</th><td>iOS, macOS</td></tr>
+<tr><th align="left">Platforms</th><td>iOS, iPadOS</td></tr>
 <tr><th align="left">Pricing</th><td>Freemium</td></tr>
 <tr><th align="left">Programming Languages</th><td>Swift</td></tr>
 </table>
 
-BayesChat is a native iOS and macOS chat client that brings your own API key and connects to remote MCP servers over Streamable HTTP, running their tools inside the conversation. It requires no account and keeps credentials in the on-device Keychain.
+BayesChat is a native iOS and iPadOS chat client that brings your own API key and connects to remote MCP servers over Streamable HTTP, running their tools inside the conversation. It requires no account and keeps credentials in the on-device Keychain.
 
 <details>
 <summary>Screenshots</summary>
