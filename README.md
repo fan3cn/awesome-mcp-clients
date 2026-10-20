@@ -2203,6 +2203,14 @@ PraisonAI is a production-ready Multi-AI Agents framework with native MCP integr
 
 BayesChat is a native iOS and macOS chat client that brings your own API key and connects to remote MCP servers over Streamable HTTP, running their tools inside the conversation. It requires no account and keeps credentials in the on-device Keychain.
 
+<details>
+<summary>Screenshots</summary>
+
+![MCP tool calls in a BayesChat conversation](./screenshots/bayeschat/mcp-tool-call.png)
+![Adding a remote MCP server in BayesChat](./screenshots/bayeschat/mcp-add-server.png)
+
+</details>
+
 ## Servers
 
 Looking for MCP servers? Check out the [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
